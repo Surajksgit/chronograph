@@ -1,0 +1,535 @@
+body{
+    background-color: rgb(20, 13, 13);
+}
+/* NAVBAR   */
+
+
+.nav-bar{
+    height: 60px;
+    width: 100%;
+    border: 1px solid black;
+    background-color: rgb(22, 17, 17);
+    
+    
+}
+.logo{
+    color: rgb(241, 234, 234);
+    margin-left: 630px;
+    margin-top: 10px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+}
+
+.logo1{
+    color: red;
+    margin-left: 750px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    position: relative;
+    bottom: 44px;
+}
+.search-box{
+    width: 150px;
+    height: 35px;
+    border-radius: 2cm;
+    position: relative;
+    left: 1000px;
+    bottom: 90px;
+    padding-left: 10px;
+}
+.src-btn{
+    height: 15px;
+    width: 15px;
+    position: relative;
+    left: 943px;
+    bottom: 91px;
+    cursor: pointer;
+    
+    
+}
+.cus{
+    position: relative;
+    bottom: 90px;
+    right: 300px;
+    text-decoration: none;
+    color: white;
+    
+    
+    
+}
+
+
+.wishlist{
+    height: 20px;
+    width: 20px;
+    position: relative;
+    left: 1050px;
+    bottom: 90px;
+}
+.wishlist:hover{
+    
+    cursor: pointer;
+    
+    
+}
+.my-account{
+    height: 20px;
+    width: 20px;
+    position: relative;
+    left: 1080px;
+    bottom: 90px;
+}
+.my-cart{
+    height: 20px;
+    width: 20px;
+    position: relative;
+    left: 1110px;
+    bottom: 90px;
+
+}
+
+.login-btn{
+    height: 40px;
+    width: 80px;
+    border-radius: 2cm;
+    position: relative;
+    left: 1000px;
+    bottom:90px;
+    cursor: pointer;
+   
+    
+}
+.login-btn:hover{
+    background-color: rgb(24, 227, 129);
+    color: white;
+}
+
+.carousel-item img {
+    margin: auto;
+    height: 600px;
+    width: 100%;
+    object-fit: cover; /* Optional: Adjusts the aspect ratio */
+}
+
+/* slide  */
+#Ro{
+    color: black;
+}
+#tisso{
+    color: black;
+
+    
+}
+/* SUB HEAD */
+.sub-head{
+    height: 100px;
+    width: 100%;
+    border: 1px solid rgb(194, 182, 182);
+    background-color: rgb(161, 159, 156);
+}
+
+.sub{
+    position: relative;
+    left: 630px;
+    top: 60px;
+    
+}
+.men{
+    color: black;
+    text-decoration: none;
+}
+.men:hover{
+    text-decoration: underline;
+}
+.women{
+    padding-left: 10px;
+    color: black;
+    text-decoration: none;
+}
+.women:hover{
+    text-decoration: underline;
+
+}
+.collection{
+    padding-left: 10px;
+    color: black;
+    text-decoration: none;
+}
+.collection:hover{
+    text-decoration: underline;
+}
+.new{
+    padding-left: 10px;
+    color: black;
+    text-decoration: none;
+}
+.new:hover{
+    text-decoration: underline;
+}
+/* This is the end of slide page ------------>*/
+
+/* new arrival page  */
+
+.no-arrivals{
+    height: 100px;
+    width: 500px;
+    border: 1px solid rgb(179, 166, 166);
+    border-radius: 10px;
+    background-color: rgb(235, 229, 223);
+    margin: auto;
+    padding-top: 30px;
+    text-align: center;
+    margin-top: 50px;
+    font-size: 20px;
+    font-family: monospace;
+}
+.arrival-page{
+    height: 1000px;
+    width: 100%;
+    background-color: rgb(179, 166, 166);
+}
+
+
+/* Collection Pge Starts Here-----------> */
+
+.collection-page{
+    height: 1700px;
+    width: 100%;
+    background-color: rgb(179, 166, 166);
+}
+.coll{
+    text-align: center;
+    font-size: 40px;
+    color: rgb(10, 6, 6);
+    background-color: rgb(180, 175, 175);
+}
+#my-wish{
+    text-align: center;
+    font-size: 40px;
+    color: rgb(10, 6, 6);
+
+}
+#mens-watches{
+    text-align: center;
+    font-size: 40px;
+    color: rgb(10, 6, 6);
+
+
+}
+#womens-watches{
+    text-align: center;
+    font-size: 40px;
+    color: rgb(10, 6, 6);
+}
+#new-watches{
+    text-align: center;
+    font-size: 40px;
+    color: rgb(10, 6, 6);
+}
+
+#card1  {
+    position: relative;
+    left:100px;
+    top: 30px;
+    
+}
+#card2{
+    position: relative;
+    left: 450px;
+    bottom: 450px;
+}
+#card3{
+    position: relative;
+    left: 800px;
+    bottom: 930px;
+}
+#card4{
+    position: relative;
+    left: 1150px;
+    bottom: 1410px;
+}
+#card5{
+    position: relative;
+    left: 100px;
+    bottom: 1350px;
+}
+#card6{
+    position: relative;
+    left: 450px;
+    bottom: 1830px;
+}
+#card7{
+    position: relative;
+    left: 800px;
+    bottom: 2310px;
+}
+#card8{
+    position: relative;
+    left: 1150px;
+    bottom: 2790px;
+}
+#card9{
+    position: relative;
+    left: 250px;
+    bottom: 2700px;
+}
+#card10{
+    position: relative;
+    left: 600px;
+    bottom: 3180px;
+}
+#card11{
+    position: relative;
+    left:950px ;
+    bottom: 3660px;
+}
+
+/* mens-collection-page */
+
+.mens-collection-page{
+    height: 1500px;
+    width: 100%;
+    background-color: rgb(179, 166, 166);
+}
+#mens-card1{
+    position: relative;
+    left: 100px;
+    top: 50px;
+}
+#mens-card2{
+    position: relative;
+    left: 450px;
+    
+    bottom: 430px;
+}
+#mens-card3{
+    position: relative;
+    left: 800px;
+   
+    bottom: 910px;
+}
+#mens-card4{
+    position: relative;
+    left: 1150px;
+    
+    bottom: 1390px;
+}
+#mens-card5{
+    position: relative;
+    left: 100px;
+    bottom: 1350px;
+}
+#mens-card6{
+    position: relative;
+    left: 450px;
+    bottom: 1830px;
+}
+#mens-card7{
+    position: relative;
+    left: 800px;
+    bottom: 2310px;
+}
+#mens-card8{
+    position: relative;
+    left: 1150px;
+    bottom: 2790px;
+}
+
+/* womens collection page */
+
+.womens-collection-page{
+    height: 1000px;
+    width: 100%;
+    background-color: rgb(179, 166, 166);
+}
+#womens-card1{
+    position: relative;
+    left: 100px;
+    top: 50px;
+}
+#womens-card2{
+    position: relative;
+    left: 450px;
+    bottom: 430px;
+}
+#womens-card3{
+    position: relative;
+    left: 800px;
+    bottom: 910px;
+}
+
+/* Cart page --------------------------------------------------> */
+
+
+.cart-page{
+    height: 1500px;
+    width: 100%;
+    background-color: rgb(179, 166, 166);
+    padding-top: 50px;
+}
+.your-cart0{
+    height: 60px;
+    width: 95%;
+    border: 1px ;
+    border-radius: 5px;
+    background-color: rgb(245, 250, 248);
+    margin-left: 40px;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+   
+}
+.your-cart1{
+    height: 190px;
+    width: 600px;
+    /* background-color: rgb(245, 250, 248); */
+    border: 1px solid rgb(245, 250, 248);
+    font-size: 20px;
+    padding-left: 20px;
+    padding-top: 5px;
+    margin-top: 30px;
+    font-family: monospace;
+    border-radius: 5px;
+    
+}
+
+.your-cart2{
+    height: 170px;
+    width: 600px;
+    /* background-color: rgb(245, 250, 248); */
+    border: 1px solid rgb(245, 250, 248);
+   
+    font-size: 20px;
+    padding-left: 20px;
+    padding-top: 20px;
+    font-family: monospace;
+    border-radius: 5px;
+    
+}
+.your-cart3{
+    height: 185px;
+    width: 600px;
+    /* background-color: rgb(255, 255, 255); */
+    border: 1px solid rgb(245, 250, 248);
+   
+    font-size: 20px;
+    padding-left: 20px;
+    padding-top: 20px;
+    font-family: monospace;
+    border-radius: 5px;
+    
+}
+
+.your-cart4{
+    height: 185px;
+    width: 600px;
+    /* background-color: rgb(219, 230, 233); */
+    border: 1px solid rgb(245, 250, 248);
+    
+    font-size: 20px;
+    padding-left: 20px;
+    padding-top: 10px;
+    font-family: monospace;
+    border-radius: 5px;
+    
+}
+.btn{
+    position: relative;
+    left: 20px;
+}
+
+/* footer------------------------------------------------------> */
+
+.footer{
+    height: 400px;
+    width: 100%;
+    background-color: black;
+
+}
+.footer-head{
+    height: 70px;
+    width: 100%;
+    background-color: rgb(69, 161, 161);
+    
+    
+    
+}
+.chrono{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+   position: relative;
+   left: 30px;
+   top: 10px;
+   color: white;
+}
+.graph{
+    color: red;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    position: relative;
+    left: 145px;
+    bottom: 33px;
+
+}
+.phno{
+    position: relative;
+    bottom: 45px;
+    left: 30px;
+    font-family: monospace;
+}
+.lux-br{
+    color: white;
+    position: relative;
+    left: 30px;
+    top: 40px;
+}
+.brands{
+    color: cadetblue;
+    position: relative;
+    left: 30px;
+    top: 30px;
+}
+.oth{
+    position: relative;
+    left: 350px;
+    bottom: 240px;
+}
+
+.cat{
+    position: relative;
+    left: 750px;
+    bottom: 440px;
+}
+.watchesformen{
+    position: relative;
+    left: 30px;
+    top: 30px;
+    color: cadetblue;
+}
+.watchesforwomen{
+    position: relative;
+    left: 30px;
+    top: 30px;
+    color: cadetblue;
+
+}
+.about{
+    position: relative;
+    left: 1200px;
+    bottom: 550px;
+}
+.service{
+    position: relative;
+    left: 30px;
+    top: 30px;
+    color: cadetblue;
+}
+.help{
+    position: relative;
+    left: 30px;
+    top: 30px;
+    color: cadetblue;
+
+}
+
+
